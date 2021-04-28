@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string-array name="countries">
+        <item>Choose any 1</item>
+        <item>India</item>
+        <item>US</item>
+        <item>UK</item>
+        <item>Canada</item>
+        <item>Australia</item>
+    </string-array>
+</resources>
