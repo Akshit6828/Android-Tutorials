@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="technology">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+    </string-array>
+</resources>
